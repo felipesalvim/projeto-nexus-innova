@@ -87,10 +87,10 @@ Contribuições são o que tornam a comunidade de código aberto um lugar incrí
 
 ## Licença
 
-Este projeto está distribuído sob a Licença MIT. Veja o arquivo `LICENSE` para mais informações.
+Este projeto está distribuído sob a Erivânia Dias, Felipe Alvim, Gabriel Marques, Ismael Oliveira e Sarah Marques. 
 
 ## Links e Apoio
 
--   **Projeto Online:** `[Link para o site no ar]`
--   **Repositório:** `[Link para o repositório no GitHub]`
+-   **Projeto Online:** `https://nexusinnova.com.br/`
+-   **Repositório:** `https://github.com/felipesalvim/projeto-nexus-innova`
 -   **Suporte:** Em caso de problemas ou dúvidas, abra uma *Issue* no GitHub ou entre em contato pelo e-mail `contato@nexusinnova.com.br`.
